@@ -41,7 +41,7 @@ Here are some ideas to get you started:
       </td>
       <td width="20%" align="center">
         <span><strong>Watching Anime</strong></span><br><br><br>
-        <img height="200px" src="https://giphy.com/gifs/body-8H38N3BvDUzkc" width="300px">
+        <img height="200px" src="https://media2.giphy.com/media/8H38N3BvDUzkc/giphy.gif?cid=ecf05e47dohg9yexygcvs7ztofx1sdhqxlzjyu485nf5fncj&rid=giphy.gif" width="300px">
       </td>
       </tbody>
 </table>

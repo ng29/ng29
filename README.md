@@ -40,8 +40,8 @@ Here are some ideas to get you started:
         <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
       </td>
       <td width="20%" align="center">
-        <span><strong>Read A Lot</strong></span><br><br><br>
-        <img height="200px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F536983955561077204%2F&psig=AOvVaw3lbUw-Abo6yX2NsCuSx03-&ust=1602161642340000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj1667DouwCFQAAAAAdAAAAABAD" width="300px">
+        <span><strong>Watching Anime</strong></span><br><br><br>
+        <img height="200px" src="https://giphy.com/gifs/body-8H38N3BvDUzkc" width="300px">
       </td>
       </tbody>
 </table>

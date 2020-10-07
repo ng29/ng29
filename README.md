@@ -5,12 +5,59 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Cosmoverse.live
+- 🌱 I’m currently learning AWS along with Hibernate.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+<p>
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px"></p>
+
+  # 𝗜'𝗺 Nitin 🦄
+
+🔭 I’m currently working on Cosmoverse.live 🚀 <br>
+🌱 I’m currently learning AWS along with Hibernate. <br>
+🚀 I am a **Junior Web Developer** who loves Backend & Frontend ⌨ <br>
+❤ In general; I am a **Technology Geek**  🇨🇾 <br>
+⚡ Fun fact:Vegeta is powerful than Goku.<br>
+
+
+## Goals 2020
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>More Coding</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300px">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Meet New People</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Read A Lot</strong></span><br><br><br>
+        <img height="200px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F536983955561077204%2F&psig=AOvVaw3lbUw-Abo6yX2NsCuSx03-&ust=1602161642340000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj1667DouwCFQAAAAAdAAAAABAD" width="300px">
+      </td>
+      </tbody>
+</table>
+
+<br>
+
+## Wanna Chat? ☕
+
+  <a href="https://www.linkedin.com/in/ng2906/">
+    <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/n_g_29">
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+  </a>
+  <a href="mailto:nitingupta2906@gmail.com">
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
+  </a>
+
+

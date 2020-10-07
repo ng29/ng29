@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   # 𝗜'𝗺 Nitin 🦄
 
 🔭 I’m currently working on Cosmoverse.live 🚀 <br>
-🌱 I’m currently learning AWS along with Hibernate. <br>
-🚀 I am a **Junior Web Developer** who loves Backend & Frontend ⌨ <br>
+🌱 I’m currently learning AWS|Hibernate. <br>
+🚀 I am a **Junior Developer** who loves Backend & AWS ⌨ <br>
 ❤ In general; I am a **Technology Geek**  🇨🇾 <br>
 ⚡ Fun fact:Vegeta is powerful than Goku.<br>
 

@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 </table>
 
 <br>
-
+<br>
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=ng29&theme=vue&show_icons=true) <br>
 ## Wanna Chat? ☕
 
   <a href="https://www.linkedin.com/in/ng2906/">

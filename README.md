@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px"></p>
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100px"></p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ng29.profile.id)<br>
 
   # 𝗜'𝗺 Nitin 🦄
 

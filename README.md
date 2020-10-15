@@ -51,8 +51,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
- &emsp;
-![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=ng29&theme=vue&show_icons=true) <br>
+<img src="https://github-readme-stats.vercel.app/api?username=ng29&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="70%"/>
 
 ## 🚀 Languages and Tools:
 
